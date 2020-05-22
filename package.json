@@ -1,0 +1,11 @@
+{
+	"name": "vibquotes",
+	"version": "1.0.0",
+	"description": "NPM Package which returns Quotes.",
+  "keywords": [
+    "motivation",
+    "quotes"
+  ],
+  "author": "Vibhu Mishra <vibhu98mishra@gmail.com> (https://mishra121.github.io/)",
+  "license": ""
+}
