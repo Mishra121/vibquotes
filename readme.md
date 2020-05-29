@@ -12,6 +12,10 @@ $ npm i vibquotes
 
 ## Usage
 
+- ***getRandQuote()*** method returns an object of quote containing ***text*** and ***from***.
+
 ```js
-// Coming Soon...
+    const vibquotes = require("vibquotes");
+
+    console.log(vibquotes.getRandQuote());
 ```
